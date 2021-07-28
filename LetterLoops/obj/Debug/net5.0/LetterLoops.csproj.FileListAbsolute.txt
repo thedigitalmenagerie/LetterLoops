@@ -1,0 +1,16 @@
+C:\Users\honey\source\repos\LetterLoops\LetterLoops\bin\Debug\net5.0\LetterLoops.exe
+C:\Users\honey\source\repos\LetterLoops\LetterLoops\bin\Debug\net5.0\LetterLoops.deps.json
+C:\Users\honey\source\repos\LetterLoops\LetterLoops\bin\Debug\net5.0\LetterLoops.runtimeconfig.json
+C:\Users\honey\source\repos\LetterLoops\LetterLoops\bin\Debug\net5.0\LetterLoops.runtimeconfig.dev.json
+C:\Users\honey\source\repos\LetterLoops\LetterLoops\bin\Debug\net5.0\LetterLoops.dll
+C:\Users\honey\source\repos\LetterLoops\LetterLoops\bin\Debug\net5.0\ref\LetterLoops.dll
+C:\Users\honey\source\repos\LetterLoops\LetterLoops\bin\Debug\net5.0\LetterLoops.pdb
+C:\Users\honey\source\repos\LetterLoops\LetterLoops\obj\Debug\net5.0\LetterLoops.csproj.AssemblyReference.cache
+C:\Users\honey\source\repos\LetterLoops\LetterLoops\obj\Debug\net5.0\LetterLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\honey\source\repos\LetterLoops\LetterLoops\obj\Debug\net5.0\LetterLoops.AssemblyInfoInputs.cache
+C:\Users\honey\source\repos\LetterLoops\LetterLoops\obj\Debug\net5.0\LetterLoops.AssemblyInfo.cs
+C:\Users\honey\source\repos\LetterLoops\LetterLoops\obj\Debug\net5.0\LetterLoops.csproj.CoreCompileInputs.cache
+C:\Users\honey\source\repos\LetterLoops\LetterLoops\obj\Debug\net5.0\LetterLoops.dll
+C:\Users\honey\source\repos\LetterLoops\LetterLoops\obj\Debug\net5.0\ref\LetterLoops.dll
+C:\Users\honey\source\repos\LetterLoops\LetterLoops\obj\Debug\net5.0\LetterLoops.pdb
+C:\Users\honey\source\repos\LetterLoops\LetterLoops\obj\Debug\net5.0\LetterLoops.genruntimeconfig.cache
